@@ -1,14 +1,14 @@
 let config1 = {
   host: "localhost",
   user: "root",
-  password: "surya123",
+  password: "",
   database: "crowdfund_db"
 };
 
 // let config = {
 //   host: "13.235.178.171",
-//   user: "surya",
-//   password: "Surya@123",
+//   user: "root",
+//   password: "",
 //   database: "charityapp_db"
 // };
 let config = {
